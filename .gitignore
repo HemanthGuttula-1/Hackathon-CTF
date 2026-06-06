@@ -2,3 +2,4 @@
 
 leak-detector/backend/.env .env 
 frontend 
+leak-detector/frontend/.env 
